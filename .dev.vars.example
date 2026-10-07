@@ -1,0 +1,2 @@
+# Optional: requires access to the Decisions API used in lib/decision.mjs.
+# OPENAI_API_KEY=replace-with-your-own-key
